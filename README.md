@@ -1,4 +1,5 @@
 Hi, I'm Leonardo. 👋
+
 MA Student in Economics at UFABC & Visiting Student at EESP-FGV. Focusing on Macroeconomics, Financial Econometrics, and Machine Learning.
 
 🔍 Research & Interests
