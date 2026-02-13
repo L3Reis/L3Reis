@@ -6,7 +6,7 @@ MA Student in Economics at UFABC & Visiting Student at EESP-FGV. Focusing on Mac
 
 Monetary Policy: DSGE models and BVAR applications.
 
-Empirical Asset Pricing: Impact of macroeconomic variables on equity returns
+Empirical Asset Pricing: Impact of macroeconomic variables on equity returns.
 
 Volatility Forecasting: Parametric models (GARCH family) vs. Machine Learning (XGBoost/Boosting).
 
