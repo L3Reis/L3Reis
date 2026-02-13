@@ -14,6 +14,7 @@ Volatility Forecasting: Parametric models (GARCH family) vs. Machine Learning (X
 Update soon!
 
 📫 Contact
+
 https://www.linkedin.com/in/leonardo-reis-jatai-35945a159 
 
 leonardo.reis.jatai.ismart@gmail.com
